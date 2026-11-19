@@ -1,8 +1,5 @@
 # Main
 <p align="center">
-  <img src=""/>
-</p>
-<p align="center">
 Hi, there!
   </p>
 
