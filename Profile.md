@@ -5,7 +5,6 @@ Hi, there!
 
 ## About Me
 - I am Kensha Ariana L. Alexander.
-- I love cats and I have 3 cats at home.
 
 ---
 
