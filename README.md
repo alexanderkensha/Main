@@ -29,7 +29,6 @@ Hi, there!
 
 --- 
 
-## Fun Fact About Me:
 
 
     
